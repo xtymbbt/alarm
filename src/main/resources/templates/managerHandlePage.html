@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>负责人处理页面</title>
+</head>
+<body>
+<h1>负责人处理页面</h1>
+<form method="post" action="/deviceAlarm/deviceID/managerHandle">
+    设备ID: <label>
+    <input type="number" name="deviceID">
+</label><br>
+    负责人ID: <label>
+    <input type="number" name="managerID">
+</label><br>
+    负责人处理描述: <label>
+    <input type="text" name="managerHandleDescription">
+</label><br>
+    <p>
+        警报是否真实？: <br>
+        <!-- name一样，同组的所有单选框都有相同的名字， value是将要发送到服务器脚本
+        的值。只会提交表单时发送选中的那个单选按钮的值-->
+        <input type="radio" name="alarmConfirmed" checked="true"> 警报无误<br>
+        <!--checked属性规定在页面加载时应该被预先选定的input元素-->
+        <input type="radio" name="alarmConfirmed" checked="false"> 警报有误
+        <!--
+          <input type="radio" name="beantype" value="ground" checked="checked">Ground
+        -->
+    </p>
+    <input type="submit" value="确认提交">
+</form>
+</body>
+</html>

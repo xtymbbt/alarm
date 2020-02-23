@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "devicealarm",
+      "type": "com.alarm.alarm.properties.DeviceAlarmProperties",
+      "sourceType": "com.alarm.alarm.properties.DeviceAlarmProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

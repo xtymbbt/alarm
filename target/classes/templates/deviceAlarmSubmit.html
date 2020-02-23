@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="multipart/form-data" charset="UTF-8">
+    <title>报警管理模块演示</title>
+</head>
+<body>
+<h1>基层人员报警页面</h1>
+<form method="post" action="/deviceAlarm" enctype="multipart/form-data">
+    设备ID: <label>
+    <input type="number" name="deviceID">
+</label><br>
+    报警员工ID: <label>
+    <input type="number" name="staffID">
+</label><br>
+    警报等级(5为最高等级，1为最低等级): <label>
+    <input type="number" name="alarmLevel">
+</label><br>
+    警报类型(按标识码填写): <label>
+    <input type="number" name="alarmType">
+</label><br>
+    警报阈值(无阈值填1): <label>
+    <input type="number" name="alarmThreshold">
+</label><br>
+    警报值(对无警报阈值的警报，填1): <label>
+    <input type="number" name="alarmValue">
+</label><br>
+    报警描述: <label>
+    <input type="text" name="staffAlarmDescription">
+</label><br>
+    报警证据上传(支持图片、视频、语音，最大不超过1GB)<input type="file" name="file" value="请选择文件">
+<!--    <p>-->
+<!--        请上传相应图片、视频或语音: <br>-->
+<!--        &lt;!&ndash; name一样，同组的所有单选框都有相同的名字， value是将要发送到服务器脚本-->
+<!--        的值。只会提交表单时发送选中的那个单选按钮的值&ndash;&gt;-->
+<!--        <input type="file" name="file" accept="image/*"> 图片<br>-->
+<!--        &lt;!&ndash;checked属性规定在页面加载时应该被预先选定的input元素&ndash;&gt;-->
+<!--        <input type="file" name="file" accept="video/*"> 视频-->
+<!--        &lt;!&ndash;-->
+<!--          <input type="radio" name="beantype" value="ground" checked="checked">Ground-->
+<!--        &ndash;&gt;-->
+<!--    </p>-->
+    <input type="submit" value="确认提交">
+</form>
+</body>
+</html>

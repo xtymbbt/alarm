@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad453c4d-7a0f-40b5-a588-e533e1d1698a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AlarmHandle" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UQ73sWkQHrDhoFbccEWfZFf8sS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="D:/AboutMyself/github.com/paascloud-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\LAB_PROJECT\alarm\src\main\java\uploaded" />
+      <recent name="D:\LAB_PROJECT\alarm\src\main\resources\templates" />
+      <recent name="D:\LAB_PROJECT\alarm\src\main\java\com\alarm\alarm" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AlarmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="alarm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alarm.alarm.AlarmApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad453c4d-7a0f-40b5-a588-e533e1d1698a" name="Default Changelist" comment="" />
+      <created>1575276768897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575276768897</updated>
+      <workItem from="1575276778277" duration="535000" />
+      <workItem from="1575337501434" duration="3712000" />
+      <workItem from="1575341327625" duration="3401000" />
+      <workItem from="1575360015779" duration="3790000" />
+      <workItem from="1575441691335" duration="686000" />
+      <workItem from="1575443218093" duration="189000" />
+      <workItem from="1575443757627" duration="219000" />
+      <workItem from="1575446434704" duration="3670000" />
+      <workItem from="1575450170926" duration="2796000" />
+      <workItem from="1575526011498" duration="1423000" />
+      <workItem from="1575596618393" duration="3337000" />
+      <workItem from="1575600727916" duration="21000" />
+      <workItem from="1575601057602" duration="168000" />
+      <workItem from="1575860590777" duration="8259000" />
+      <workItem from="1575942369508" duration="12246000" />
+      <workItem from="1576050030856" duration="4228000" />
+      <workItem from="1576132868916" duration="3985000" />
+      <workItem from="1576138838056" duration="353000" />
+      <workItem from="1576203732866" duration="2970000" />
+      <workItem from="1576738079033" duration="989000" />
+      <workItem from="1576840571625" duration="586000" />
+      <workItem from="1577060278818" duration="13000" />
+      <workItem from="1577334178598" duration="3025000" />
+      <workItem from="1577337784195" duration="1096000" />
+      <workItem from="1577614273261" duration="1647000" />
+      <workItem from="1578189006429" duration="457000" />
+      <workItem from="1578460833683" duration="1970000" />
+      <workItem from="1578466520999" duration="965000" />
+      <workItem from="1578553190838" duration="1203000" />
+      <workItem from="1580627269425" duration="65000" />
+      <workItem from="1580627376883" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="15" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576738439105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="15" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576738439105" />
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576738136231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1576738136231" />
+    <state x="449" y="139" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578553226888">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="139" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1578553226888" />
+    <state width="1493" height="201" key="GridCell.Tab.0.bottom" timestamp="1577337225829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577337225829" />
+    <state width="1493" height="201" key="GridCell.Tab.0.center" timestamp="1577337225829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577337225829" />
+    <state width="1493" height="201" key="GridCell.Tab.0.left" timestamp="1577337225829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577337225829" />
+    <state width="1493" height="201" key="GridCell.Tab.0.right" timestamp="1577337225829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577337225829" />
+    <state width="1493" height="201" key="GridCell.Tab.1.bottom" timestamp="1577337225830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577337225830" />
+    <state width="1493" height="201" key="GridCell.Tab.1.center" timestamp="1577337225829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577337225829" />
+    <state width="1493" height="201" key="GridCell.Tab.1.left" timestamp="1577337225829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577337225829" />
+    <state width="1493" height="201" key="GridCell.Tab.1.right" timestamp="1577337225829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577337225829" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1576738365381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576738365381" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1578466527945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578466527945" />
+  </component>
+</project>

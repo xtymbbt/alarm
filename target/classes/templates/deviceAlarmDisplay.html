@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    <title>所有设备报警信息</title>
+</head>
+<body>
+<table border=1>
+    <caption>报警数据库</caption>
+    <tr>
+        <th>报警ID</th>
+        <th>设备ID</th>
+        <th>设备名称</th>
+        <th>设备地址</th>
+        <th>报警状态</th>
+        <th>基层人员报警时间</th>
+        <th>基层人员ID</th>
+        <th>警报等级</th>
+        <th>警报类型</th>
+        <th>相应警报类型的阈值</th>
+        <th>警报值</th>
+        <th>基层人员报警说明</th>
+        <th>负责人处理时间</th>
+        <th>负责人ID</th>
+        <th>负责人处理说明</th>
+        <th>工单号</th>
+        <th>报警文件</th>
+    </tr>
+    <tr th:each="deviceAlarmList:${deviceAlarmList}">
+        <td><h3 th:text="${deviceAlarmList.alarmID}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.deviceID}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.deviceName}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.devicePosition}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.alarmCondition}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.staffAlarmDate}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.staffID}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.alarmLevel}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.alarmType}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.alarmThreshold}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.alarmValue}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.staffAlarmDescription}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.managerHandleDate}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.managerID}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.managerHandleDescription}"></h3></td>
+        <td><h3 th:text="${deviceAlarmList.orderNum}"></h3></td>
+        <td><img src="${deviceAlarmList.fileName}" alt="该报警的提交的文件"></td>
+    </tr>
+</table>
+
+</body>
+</html>
